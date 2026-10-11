@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Fibonacci.Tests/Fibonacci.Tests.csproj" />
+  <Project Path="Fibonacci/Fibonacci.csproj" />
+</Solution>
